@@ -3,6 +3,15 @@
 ## Project Overview
 
 This project uses Natural Language Processing (NLP) and Machine Learning to detect phishing emails and classify them as phishing or legitimate messages.
+## Dataset
+
+The dataset used for this project is too large to upload directly to GitHub.
+
+Dataset Source:
+Kaggle Phishing Email Dataset
+
+Users can download the dataset separately and place it in the project folder before running the code.
+
 
 ## Dataset
 
